@@ -1,4 +1,4 @@
-# Dinodoors-Game \
+# Dinodoors-Game
 ## This game is made for olc::BeatTheBoredom Game Jam.
 
 Coder: [arda yildirim](https://github.com/ardayildirim) \
